@@ -47,8 +47,4 @@ Informação útil e específica sobre sobre o desafio que ajuda, ou não, você
 
 ## Resolução
 
-<video width="320" height="240" controls>
-  <source src="">
-</video>
-
 Recomendo para ver a resolução desse CTF assistir ao [vídeo](https://youtu.be/xOnNzRSh67g)
