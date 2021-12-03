@@ -2,7 +2,7 @@
 
 **Basics and How-To**
 
-## What’s a Command Prompt?
+## O que é um Command Prompt?
 
 Conhecido como terminal ou bash é utilizado para executar comandos.
 É tipicamente uma tela preta com fonte branca e possui uma interface simples. Você digita o comando e esse é interpretado pelo processador e realiza as operações no computador.
