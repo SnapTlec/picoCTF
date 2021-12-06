@@ -9,3 +9,11 @@ Obtenha acesso a uma experiência prática única e segura, onde os participante
 Os participantes aprendem a superar conjuntos de desafios em seis domínios da cibersegurança, incluindo habilidades gerais, criptografia, exploração da web, forense, etc. Os desafios são todos configurados com a intenção de serem hackeados, o que os torna uma maneira excelente e legal de praticar experiência.
 
  [Get started!](https://picoctf.org/get_started) Junte se a mim
+
+ <br>
+
+ # Avisos gerais
+
+## Níveis
+
+ Os níveis presentes nos desafios são pessoais. A plaforma não apresenta níveis de dificuldade.

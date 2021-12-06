@@ -53,4 +53,7 @@ Não há indicações de leitura.
 
 ## Resolução
 
+
 Recomendo para ver a resolução desse CTF assistir ao [vídeo](https://youtu.be/xOnNzRSh67g)
+
+Após entender a resolução veja a [resposta](./anwser.flag.txt)
